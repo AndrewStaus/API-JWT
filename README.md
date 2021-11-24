@@ -1,2 +1,3 @@
 # API-JWT
-Sample of a JWT CRUD API in PHP
+
+Boilerplate for a JSON Web Token API Class for PHP
